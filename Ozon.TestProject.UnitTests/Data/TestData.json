@@ -1,0 +1,23 @@
+[
+  {
+    "inputString": "___Hello_World!____",
+    "expectedResult": "Hello_World!"
+  },
+  {
+    "inputString": null,
+    "expectedResult": ""
+  },
+  {
+    "inputString": "",
+    "expectedResult": ""
+  },
+  {
+    "inputString": " ",
+    "expectedResult": ""
+  },
+  {
+    "inputString": "___ssdjfsdfjjsdlfjk________sdfkjsdlf_____s__s_sdq__wqwe_wq_sdfsd_sdf____iqwue____sdqweqwddffeewfqq__dcdss_qiwoeqiwoe__dwq-1e111__",
+    "expectedResult": "ssdjfsdfjjsdlfjk_sdfkjsdlf_s_s_sdq_wqwe_wq_sdfsd_sdf_iqwue_sdqweqwddffeewfqq_dcdss_qiwoeqiwoe_dwq-1e111"
+  }
+
+]
